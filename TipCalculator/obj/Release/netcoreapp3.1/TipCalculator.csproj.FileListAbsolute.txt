@@ -1,0 +1,14 @@
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\bin\Release\netcoreapp3.1\TipCalculator.exe
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\bin\Release\netcoreapp3.1\TipCalculator.deps.json
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\bin\Release\netcoreapp3.1\TipCalculator.runtimeconfig.json
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\bin\Release\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\bin\Release\netcoreapp3.1\TipCalculator.dll
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\bin\Release\netcoreapp3.1\TipCalculator.pdb
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\obj\Release\netcoreapp3.1\TipCalculator.Form1.resources
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\obj\Release\netcoreapp3.1\TipCalculator.csproj.GenerateResource.cache
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\obj\Release\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\obj\Release\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\obj\Release\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\obj\Release\netcoreapp3.1\TipCalculator.dll
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\obj\Release\netcoreapp3.1\TipCalculator.pdb
+C:\Users\Jason\Dropbox\College\Coding\C# Workspace\CS3500\Lab6\TipCalculator\obj\Release\netcoreapp3.1\TipCalculator.genruntimeconfig.cache
